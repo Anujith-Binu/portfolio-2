@@ -94,14 +94,16 @@ display: flex;
     
 }
 div img{
-    width: 400px;
+    width: 380px;
     height: 300px;
     /* border: 2px solid #ff3d0036; */
     border-radius: 13px;
     box-shadow: 4px 7px 7px 0px #00000042;
     cursor: pointer;
-    margin: 10px;
+    /* margin: 10px; */
     transition: 400ms;
+    margin-right: 10px;
+
 }
 div img:hover{
     filter: grayscale(1);
@@ -180,6 +182,7 @@ div img:hover{
     }
     .box-container{
         height: 1281px;
+        /* width: 50px; */
     }
     .skl-p{
         margin-left: 101px;
@@ -193,6 +196,10 @@ div img:hover{
     .links a{
         margin-left: 10px;
         font-size: 12px;
+
+    }
+
+    .img{
 
     }
 
