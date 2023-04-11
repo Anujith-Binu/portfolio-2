@@ -227,6 +227,7 @@ div img:hover {
 
 }
 
+
 @media(max-width:860px) {
     .skl-p {
         margin-left: 334px;
@@ -322,7 +323,7 @@ div img:hover {
     }
 }
 
-@media(max-width:380px){
+@media(max-width:420px){
     .skl-p{
         margin-left: 87px;
         font-size: 54px;
