@@ -168,7 +168,7 @@ div img:hover{
 
 /* ================================================================================================ */
 
-@media(max-width: 400px) {
+@media(max-width: 426px) {
     #container{
         flex-direction: column;
         height: 500px;
@@ -178,6 +178,24 @@ div img:hover{
         font-size: 15px;
         
     }
+    .box-container{
+        height: 1281px;
+    }
+    .skl-p{
+        margin-left: 101px;
+    }
+    .skills .skl{
+        width: 75%;
+    }
+    .links{
+        padding-left: 73px;
+    }
+    .links a{
+        margin-left: 10px;
+        font-size: 12px;
+
+    }
+
 }
 
 
