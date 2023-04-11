@@ -91,6 +91,7 @@ display: flex;
     flex-wrap: wrap;
     background-color:rgba(0, 0, 0, 0.897) ;
     height: 800px;
+    width: 100%;
     
 }
 div img{
@@ -126,5 +127,19 @@ div img:hover{
     padding-top: 150px;
 
 }
+
+.links{
+    padding-top: 307px;
+    padding-left: 455px;
+}
+
+a {
+    margin-left: 35px;
+    color: rgb(15, 15, 53);
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+
 
 
